@@ -1,6 +1,21 @@
-// Código de exemplo
-// Extraído do app S File Encryptor
-// Apenas para fins educacionais
+/*
+ * Android File Encryption – Code Snippet
+ *
+ * Extraído do app S File Encryptor
+ * Autor: Lucas Jorgeto
+ *
+ * Este NÃO é o código completo do app da Play Store.
+ * Trecho educacional para estudo de:
+ *
+ * - AES-256 (CBC)
+ * - PBKDF2 (HmacSHA256)
+ * - HMAC-SHA256
+ * - AsyncTask
+ *
+ * Código acoplado à UI (ProgressBar, TextView, EditText).
+ * Não recomendado para uso direto em produção sem refatoração.
+ */
+
 
 
 // Encrypt
