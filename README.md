@@ -32,6 +32,7 @@ Em alguns antivírus Android, essas tecnologias podem ocasionalmente gerar
 O aplicativo é distribuído oficialmente pela Google Play
 e segue as políticas de segurança da plataforma.
 
+🔐 Consulte o arquivo [SECURITY.md](SECURITY.md) para detalhes sobre o modelo de segurança.
 
 
 ## Licença
